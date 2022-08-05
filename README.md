@@ -6,7 +6,7 @@ Through the Pontem wallet, users can create and manage private keys to access cr
 
 The proposal for the current repository is to publish:
 
-* Development builds
+* Development builds.
 * Production builds before it meets stores. 
 * Urgent updates.
 
@@ -20,7 +20,7 @@ But if you still need a development version or want to try the latest release or
 2. Download latest version of zip file.
 3. Go to Chrome or Brave browser (or any other browser using Chromium) and navigate to: chrome://extensions/.
 4. Either drop the .zip file into the window or click "developer mode" in top right corner then click "load unpacked" in top left corner.
-5. For more detailed instructions on how to install a chrome extension manually, you can watch this [Youtube video](https://www.youtube.com/watch?v=vW8W19W_X0I)
+5. For more detailed instructions on how to install a chrome extension manually, you can watch this [Youtube video](https://www.youtube.com/watch?v=vW8W19W_X0I).
 
 ## Issues
 
