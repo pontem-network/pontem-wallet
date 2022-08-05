@@ -25,3 +25,10 @@ But if you still need a development version or want to try the latest release or
 ## Issues
 
 You are welcome to create [issue](https://github.com/pontem-network/pontem-wallet/issues) if you're got a bug or want to propose a feature.
+
+## Troubleshooting
+
+* If extension stopped to work and can't be connected to Liquidswap site:
+  * Go to chrome://extensions.
+  * Find installed Pontem Wallet extension on the page.
+  * Click on 'refresh' button.
